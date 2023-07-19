@@ -21,7 +21,7 @@ To run the script, you need the following dependencies:
    ```
 ## Usage
 
-1. Open the `crypto_price_tracker.py` file in a text editor.
+1. Open the `cryptotracker.py` file in a text editor.
 
 2. Set up your email configurations:
 - Replace `'sender@gmail.com'` with your Gmail address (the address from which you want to send alerts).
